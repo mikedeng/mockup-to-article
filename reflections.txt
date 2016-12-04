@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+	* New skills I learned
+		+ tags  like sup,s, i, h1~h6, etc.
+		+ desciplines of writing html files, eg tags embed with tags.
+		+ ways to search the tags.
+
+	* easy things
+		+ tags that were used so far can remembered easily.
+		+ history of front development.
+
+	* difficulties
+		+ too many tags.
+		+ obsolete elements should always be reminded.
+
+	* strategies
+		1. compare the differences of the raw html with pdf sample.
+		2. mdn.
+		3. ctrl + F
